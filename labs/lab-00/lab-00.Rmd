@@ -16,10 +16,10 @@ library(tidyverse)
 We set up the data frame.
 
 ```{r setup-tibble}
-usernames <- c("wilsonamy", "username 1", "username 2", "username 3", "username 4") #Extend if necessary
-nums <- c(18, NA, NA, NA, NA) #Extend if necessary
-colours <- c("powderblue", "Colour 1", "colour 2", "colour 2", "colour 4") #Extend if necessary
-hobbies <- c("Hiking", "Hobby 1", "Hobby 2", "Hobby 3", "Hobby 4") #Extend if necessary
+usernames <- c("wilsonamy", "arayias", "username 2", "username 3", "username 4") #Extend if necessary
+nums <- c(18, 3, NA, NA, NA) #Extend if necessary
+colours <- c("powderblue", "sienna", "colour 2", "colour 2", "colour 4") #Extend if necessary
+hobbies <- c("Hiking", "football", "Hobby 2", "Hobby 3", "Hobby 4") #Extend if necessary
 
 team_data <- tibble(username = usernames, die_roll = nums, colour = colours,
                     hobby = hobbies)
