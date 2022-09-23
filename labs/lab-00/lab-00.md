@@ -65,6 +65,7 @@ p2
 ![](lab-00_files/figure-gfm/new-bar-plot-1.png)<!-- -->
 
 The plot isn’t a good visualisation, because if you extended it to
-everyone taking this we would probably not have many overlaping hobbies.
-Instead of giving the option for everyone to write their exact hobby we
-can group them (e.g. outdoor activities) or give a selection of hobbies.
+everyone taking this course we would probably not have many overlaping
+hobbies. Instead of giving the option for everyone to write their exact
+hobby we can group them (e.g. outdoor activities) or give a selection of
+hobbies.
